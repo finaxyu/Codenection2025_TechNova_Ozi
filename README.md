@@ -1,2 +1,6 @@
 # Codenection2025_TechNova_Ozi
+📌 Track & Problem Statement
+**Track:** Student Lifestyle 
+**Problem Statement:** Mental Health Support For Students 
+
 Ozi is a progressive web app that empowers university students to balance productivity and mental wellbeing. It combines timetable scanning, AI-optimized smart schedules, mindful focus sessions, a personal wellness dashboard, quick coping tools, AI-driven insights, and anonymous peer chat with crisis support. By uniting study management with mental health resources in a safe, privacy-first design, Ozi helps students study smarter and care for themselves better.
